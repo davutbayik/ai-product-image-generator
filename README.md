@@ -33,6 +33,14 @@ project/
 
 ---
 
+## 🎥 Example Demo
+
+
+https://github.com/user-attachments/assets/07b7301d-9d47-4d02-835b-d0a9992079cc
+
+
+---
+
 ## 🛠️ Installation
 
 1. Clone the repository:
