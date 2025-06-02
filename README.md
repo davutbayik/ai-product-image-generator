@@ -18,8 +18,6 @@ Automatically generate commercial-quality product mockup images using OpenAI and
 * ✅ Updates the status of each processed product in the original Google Sheet
 * 📜 Logs all processing steps and errors
 
----
-
 ## 📁 Folder Structure
 
 ```
@@ -31,15 +29,11 @@ project/
 ├── main.py                      # Main script (provided above)
 ```
 
----
-
 ## 🎥 Example Demo
 
 
 https://github.com/user-attachments/assets/54a42888-9920-4340-a46d-ebe20cf9f960
 
-
----
 
 ## 🛠️ Installation
 
@@ -90,8 +84,6 @@ https://github.com/user-attachments/assets/54a42888-9920-4340-a46d-ebe20cf9f960
      python main.py
      ```
 
----
-
 ## 🧪 Example Sheet Structure
 
 | ID   | Description                                | Category      | Color       | Material            | Additional Notes           | Status  |
@@ -100,28 +92,20 @@ https://github.com/user-attachments/assets/54a42888-9920-4340-a46d-ebe20cf9f960
 
 > The script will only process rows with `Status = Pending`
 
----
-
 ## 🛠️ Prompt Logic (GPT System Prompt)
 
 * Understands fields like `Description`, `Category`, `Color`, `Material`, and `Additional Notes`
 * Generates clean, realistic mockup prompts for DALL·E / OpenAI Image API or other image generation APIs
 
----
-
 ## 🔐 Security
 
 * Do not upload your `.env` or service account JSON to any public repository
-
----
 
 ## 💡 Future Improvements
 
 * Add UI with Streamlit for manual input or preview
 * Enable batch download of all generated images
 * Add error reporting via email or Slack
-
----
 
 ## 📄 License
 
