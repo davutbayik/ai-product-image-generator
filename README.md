@@ -36,7 +36,7 @@ project/
 ## 🎥 Example Demo
 
 
-https://github.com/user-attachments/assets/f6c0e81e-b641-4cc5-ab62-2dfab8aeda2e
+https://github.com/user-attachments/assets/54a42888-9920-4340-a46d-ebe20cf9f960
 
 
 ---
